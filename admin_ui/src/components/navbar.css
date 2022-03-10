@@ -1,0 +1,22 @@
+#navbar_container {
+  display: flex;
+  justify-content: space-between;
+  background-color: #f0c95f;
+  padding: 5px 2%;
+  margin-bottom: 10px;
+}
+#icon_image {
+  width: 10%;
+  border-radius: 30px;
+}
+#icon_image img {
+  width: 100%;
+  border-radius: 30px;
+}
+#navbar_input {
+  font-size: 30px;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  color: #1a81c4;
+}
