@@ -7,7 +7,7 @@ export const Navbar = () => {
         <img src="https://www.codester.com/static/uploads/items/000/015/15137/preview-xl.jpg"></img>
       </div>
 
-      <div id="navbar_input">Author</div>
+      <div id="navbar_input">Admin</div>
     </div>
   );
 };
